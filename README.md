@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maciek-prog
 - 👀 I’m interested in Java Development and Front-End Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and JavaScript
 - 📫 How to reach me pretkimaciej1@gmail.com 
 
 <!---
