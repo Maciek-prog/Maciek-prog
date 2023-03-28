@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Maciek-prog
-- 👀 I’m interested in Java Development and Front-End Development
-- 🌱 I’m currently learning Java and Spring
+- 👋 Hi, I’m Maciej
+- 👀 I’m interested in Java Development, Front-End Development and Python Development
+- 🌱 I’m currently learning Python
 - 📫 You can reach me on gmial: pretkimaciej1@gmail.com 
 
 <!---
