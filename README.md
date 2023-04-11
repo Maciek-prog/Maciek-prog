@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maciej
-- 👀 I’m interested in Java Development, Front-End Development and Python Development
+- 👀 I’m interested in Junior Java Development, Junior Front-End Development 
 - 🌱 I’m currently learning Python
 - 📫 You can reach me on gmial: pretkimaciej1@gmail.com 
 
